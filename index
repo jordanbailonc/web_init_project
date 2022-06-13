@@ -18,11 +18,11 @@
 
     <!--This are all the heading available in html5-->
     <h1 title="This is a heading">This is heading size 1</h1>
-    <h2>This is heading size 2</h2>
-    <h3>This is heading size 3</h3>
-    <h4>This is heading size 4</h4>
-    <h5>This is heading size 5</h5>
-    <h6>This is heading size 6</h6>
+    <h2>Voy a cambiar toda esta zona</h2>
+    <h3>Voy a cambiar toda esta zona</h3>
+    <h4>Voy a cambiar toda esta zona</h4>
+    <h5>Voy a cambiar toda esta zona</h5>
+    <h6>Voy a cambiar toda esta zona</h6>
 
     <!--This are different ways to write content-->
     <p title="This is a paragraph">This is a paragraph</p>
