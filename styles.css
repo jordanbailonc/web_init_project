@@ -1,0 +1,21 @@
+body{
+    background-image: url("source/retrato");
+    background-position: center;
+    background-repeat: no-repeat;
+    /* Background image is fixed in the viewport so that it doesn’t move when the content’s height is greater than the image’s height */
+    background-attachment: fixed; 
+    /* This is what makes the background image rescale based on the container’s size */ 
+    background-size: cover;
+    background-color: aliceblue;
+    max-width: 100%;
+    height: auto;
+    font: bold, white, solid;
+}
+
+p{
+    font: 15px Arial, sans-serif;
+}
+#footer-img{
+    width:15em;
+    height: 15em;
+}
