@@ -9,13 +9,22 @@ body{
     background-color: aliceblue;
     max-width: 100%;
     height: auto;
-    font: bold, white, solid;
+    color: #fff;
+    font-family: "OverPass Mono", monospace;
+    padding: 0;
+    margin: 0;
 }
 
 p{
     font: 15px Arial, sans-serif;
 }
 #footer-img{
-    width:15em;
-    height: 15em;
+    width:5em;
+    height: 5em;
+}
+.bar{
+    background-color: #829acc;
+    opacity: 0.55;
+    padding: 10px;
+    display: flex;
 }
