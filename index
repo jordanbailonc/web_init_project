@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+    <!--This is the link with css file-->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Gentium+Plus&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <!--This is the header-->
+    <title>Home Page</title>
+  </head>
+
+  <body>
+
+    <!--This are all the heading available in html5-->
+    <h1 title="This is a heading">This is heading size 1</h1>
+    <h2>This is heading size 2</h2>
+    <h3>This is heading size 3</h3>
+    <h4>This is heading size 4</h4>
+    <h5>This is heading size 5</h5>
+    <h6>This is heading size 6</h6>
+
+    <!--This are different ways to write content-->
+    <p title="This is a paragraph">This is a paragraph</p>
+    <p>This is another paragraph</p>
+    <p>Hello I'm Jordan and I born in S1997</p>
+    <p>This is a little explication to add data</p>
+    <pre>
+            This is a way to write
+
+            a example of a poem
+
+            doing format on linux oem
+        </pre
+    >
+    <p>
+      <mark>This</mark> could be a math example: <br />
+      4<sub>3</sub> - 4 <sup>2</sup>
+    </p>
+    <p>My favourite cite</p>
+    <blockquote>
+      "If you can imagine it <br />
+      you can program it"<br /><br />
+      Programacion ATS
+    </blockquote>
+    <hr>
+    <footer>
+      Other social media<br />
+
+      <address>
+        Written by Jordan Bailon. <br />
+        C/ Sta Eulalia 52-58 <br />
+        Plaza interior
+      </address>
+      <a href="mailto:jordanbailonc@gmail.com">
+        <img
+          id="footer-img"
+          src="source/mail-icon"
+          title="Write me a mail here"
+          alt="Write me Here"
+        />
+      </a>
+      <a href="https://www.instagram.com/elementary_photos">
+        <img
+          id="footer-img"
+          src="source/instagram-logo"
+          alt="My Instagram Account"
+        />
+      </a>
+      <br />
+      <a href="https://www.mixcloud.com/jordan-bailon/">
+        <img
+          id="footer-img"
+          src="source/mixcloud-logo"
+          alt="My Mixcloud Account"
+        />
+      </a>
+      <a href="https://github.com/jordanbailonc">
+        <img
+          id="footer-img"
+          title="GitHub Account"
+          src="source/git-logo"
+          alt="My github account"
+        />
+      </a>
+    </footer>
+  </body>
+</html>
